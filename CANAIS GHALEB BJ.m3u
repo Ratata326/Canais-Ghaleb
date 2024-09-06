@@ -235,6 +235,8 @@ http://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
 #EXTINF:0,Tv Cei
 https://stmv7.samcast.com.br/eduardo5379/eduardo5379/playlist.m3u8
+#EXTINF:0,TVE RS
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 =====[ Árabe ]=====
 #EXTINF:0,Al Jazeera Arabic
 https://live-hls-web-aja.getaj.net/AJA/02.m3u8
