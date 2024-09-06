@@ -182,6 +182,8 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/633dcebd80386500074a2
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 #EXTINF:0,Pluto TV Filmes Nacionais
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5a545d0dbf7f0007c09408/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
+#EXTINF:0,CANAL 29
+https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
 =====[ Tv aberta ]=====
 #EXTINF:0,SBT Interior
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
@@ -227,6 +229,12 @@ https://stmv1.srvif.com/ferrera/ferrera/playlist.m3u8
 https://5a0c3936c25c8.streamlock.net/8032/8032/playlist.m3u8
 #EXTINF:0,TV LITORAL RS
 https://srv3.zcast.com.br/saranet/saranet/playlist.m3u8
+#EXTINF:0,CNN BRASIL
+http://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
+#EXTINF:0,SBT (TV Cidade Verde PI)
+https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
+#EXTINF:0,Tv Cei
+https://stmv7.samcast.com.br/eduardo5379/eduardo5379/playlist.m3u8
 =====[ Árabe ]=====
 #EXTINF:0,Al Jazeera Arabic
 https://live-hls-web-aja.getaj.net/AJA/02.m3u8
@@ -321,3 +329,9 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61f2c6969fcc3800076ef
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff609de50ab210008025c1b/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 #EXTINF:0,Turma da Mônica
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a6941elivestitch/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=&profilesFromStream=true
+#EXTINF:0,A Família Dinossauro
+https://stmv4.voxtvhd.com.br/dinotvfast20240825/dinotvfast20240825/playlist.m3u8
+#EXTINF:0,Rede Web Tv
+https://cdn.jmvstream.com/w/AVJ-15086/playlist/playlist.m3u8
+#EXTINF:0,BSTV
+https://br5093.streamingdevideo.com.br/bstv/bstv/playlist.m3u8
