@@ -185,7 +185,7 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5a545d0dbf7f0007c09
 #EXTINF:0,CANAL 29
 https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
 =====[ Tv aberta ]=====
-#EXTINF:0,SBT Interior
+#EXTINF:0,SBT
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:0,Record Tv
 https://tvconquistalrv.duckdns.org/hls/tvconquistalrv.m3u8
