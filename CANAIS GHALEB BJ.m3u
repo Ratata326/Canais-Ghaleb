@@ -1,5 +1,5 @@
 =====[ Ghaleb Bjaiji ]=====
-#EXTINF:0 logo=https://imgur.com/SExObkB.png        ,BS-TV Online
+#EXTINF:0 logo=https://imgur.com/SExObkB.png         ,BS-TV Online
 https://video05.logicahost.com.br/gbsstudio/gbsstudio/playlist.m3u8
 #EXTINF:0,Multi Canais
 https://stmv4.voxtvhd.com.br/multicanais/multicanais/playlist.m3u8
@@ -17,7 +17,7 @@ https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
 #EXTINF:0,Tv Zyn
 https://amg01391-sbtinfast-amg01391c2-runtime-latam-1337.playouts.now.amagi.tv/playlist/amg01391-addigital-tvzyn-runtimelatam/playlist.m3u8
-#EXTINF:0 logo=https://imgur.com/a/CezayJA.png          ,Caravana Play
+#EXTINF:0 logo=https://imgur.com/a/CezayJA.png           ,Caravana Play
 https://stmv2.voxtvhd.com.br/keynni6990/keynni6990/playlist.m3u8
 #EXTINF:0,GLN Tv
 https://stmv1.paineltv.net/glnfilmes/glnfilmes/chunklist.m3u8
@@ -35,13 +35,13 @@ https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
 https://video01.kshost.com.br/cypriano46326/cypriano46326/playlist.m3u8
 #EXTINF:0,Motorvision TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=758
-#EXTINF:0 logo=https://imgur.com/a/ibRm9XC.png        ,ABC Brasil
+#EXTINF:0 logo=https://imgur.com/a/ibRm9XC.png         ,ABC Brasil
 https://5cf4a2c2512a2.streamlock.net/8256/8256/playlist.m3u8
 #EXTINF:0,Cindie Lite
 https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
-#EXTINF:0 logo=https://imgur.com/a/VP6wCir.png        ,Lucas Tv
+#EXTINF:0 logo=https://imgur.com/a/VP6wCir.png         ,Lucas Tv
 https://stmv6.voxtvhd.com.br/lucastv/lucastv/playlist.m3u8
-#EXTINF:0 logo=https://imgur.com/a/UPHb2mh.png        ,PlayTv
+#EXTINF:0 logo=https://imgur.com/a/UPHb2mh.png         ,PlayTv
 https://isaocorp.cloudecast.com/playtv/mono.m3u8
 #EXTINF:0,Series Classic
 https://srv6.zcast.com.br/adriano8425/adriano8425/chunklist_w1423268919.m3u8
@@ -112,19 +112,19 @@ https://db71bbef43434d4e9ff9d4a9b8f55bf0.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:0,Combate Global Tv
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
 =====[ Filmes ]=====
-#EXTINF:0 logo=https://imgur.com/a/pG3TG6l.png        ,Sua Tv
+#EXTINF:0 logo=https://imgur.com/a/pG3TG6l.png         ,Sua Tv
 https://stmv1.paineltv.net/suatvsjc/suatvsjc/playlist.m3u8
-#EXTINF:0 logo=https://i.imgur.com/4c7bwSN.png            ,Runtime Ação
+#EXTINF:0 logo=https://i.imgur.com/4c7bwSN.png             ,Runtime Ação
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
-#EXTINF:0 logo=https://i.imgur.com/4c7bwSN.png            ,Runtime
+#EXTINF:0 logo=https://i.imgur.com/4c7bwSN.png             ,Runtime
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
-#EXTINF:0 logo=https://i.imgur.com/4c7bwSN.png            ,Runtime Comédia
+#EXTINF:0 logo=https://i.imgur.com/4c7bwSN.png             ,Runtime Comédia
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
-#EXTINF:0 logo=https://i.imgur.com/4c7bwSN.png            ,Runtime Crime
+#EXTINF:0 logo=https://i.imgur.com/4c7bwSN.png             ,Runtime Crime
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
-#EXTINF:0 logo=https://i.imgur.com/4c7bwSN.png            ,Runtime Família
+#EXTINF:0 logo=https://i.imgur.com/4c7bwSN.png             ,Runtime Família
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589
-#EXTINF:0 logo=https://i.imgur.com/4c7bwSN.png            ,Runtime Romance
+#EXTINF:0 logo=https://i.imgur.com/4c7bwSN.png             ,Runtime Romance
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
 #EXTINF:0,GRJNGO
 https://amogonetworx-grjngo-1-eu.plex.wurl.tv/2000.m3u8
@@ -217,17 +217,17 @@ https://tv01.zas.media:1936/centraltvweb/centraltvweb/playlist.m3u8
 #EXTINF:0,Filmes Friki
 https://d2jqgm8hyia1n3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8hl8d0bx6aah/index.m3u8
 =====[ Tv aberta ]=====
-#EXTINF:0 logo=https://i.imgur.com/srURmsi.png            ,SBT
+#EXTINF:0 logo=https://i.imgur.com/srURmsi.png             ,SBT
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
-#EXTINF:0 logo=https://i.imgur.com/RDekR7e.png            ,Record Tv
+#EXTINF:0 logo=https://i.imgur.com/RDekR7e.png             ,Record Tv
 https://tvconquistalrv.duckdns.org/hls/tvconquistalrv.m3u8
 #EXTINF:0,Rede NGT
 https://isaocorp.cloudecast.com/ngt/index.m3u8
 #EXTINF:0,TV Brasil
 https://tvbrasil-stream.ebc.com.br/index.m3u8
-#EXTINF:0 logo=https://i.imgur.com/b92nQTD.png            ,Band
+#EXTINF:0 logo=https://i.imgur.com/b92nQTD.png             ,Band
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
-#EXTINF:0 logo=https://imgur.com/a/ZlbQuiL.png        ,Tv Pampa
+#EXTINF:0 logo=https://imgur.com/a/ZlbQuiL.png         ,Tv Pampa
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
 #EXTINF:0,Tv Mon
 https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
@@ -263,11 +263,11 @@ https://5a0c3936c25c8.streamlock.net/8032/8032/playlist.m3u8
 https://srv3.zcast.com.br/saranet/saranet/playlist.m3u8
 #EXTINF:0,CNN BRASIL
 http://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
-#EXTINF:0 logo=https://i.imgur.com/srURmsi.png            ,SBT (TV Cidade Verde PI)
+#EXTINF:0 logo=https://i.imgur.com/srURmsi.png             ,SBT (TV Cidade Verde PI)
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
 #EXTINF:0,Tv Cei
 https://stmv7.samcast.com.br/eduardo5379/eduardo5379/playlist.m3u8
-#EXTINF:0 logo=https://pbs.twimg.com/profile_images/927523078690787328/cY2qU7jK_400x400.jpg            ,TVE RS
+#EXTINF:0 logo=https://pbs.twimg.com/profile_images/927523078690787328/cY2qU7jK_400x400.jpg             ,TVE RS
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 #EXTINF:0,Canal Gov
 https://canalgov-stream.ebc.com.br/index.m3u8
@@ -295,7 +295,7 @@ https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 =====[ Desenhos ]=====
 #EXTINF:0,Anime Tv
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
-#EXTINF:0 logo=https://imgur.com/a/QIqy7rP.png        ,Clouding Tv
+#EXTINF:0 logo=https://imgur.com/a/QIqy7rP.png         ,Clouding Tv
 https://stmv1.paineltv.net/redeclonetv/redeclonetv/playlist.m3u8
 #EXTINF:0,Retro Cartoon
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
@@ -371,7 +371,7 @@ https://stmv4.voxtvhd.com.br/dinotvfast20240825/dinotvfast20240825/playlist.m3u8
 https://cdn.jmvstream.com/w/AVJ-15086/playlist/playlist.m3u8
 #EXTINF:0,BSTV
 https://br5093.streamingdevideo.com.br/bstv/bstv/playlist.m3u8
-#EXTINF:0 logo=https://d14vd6r4ppsx57.cloudfront.net/media/brand/logo_CERTP_PNG__MOAFOfq.png            ,TV R
+#EXTINF:0 logo=https://d14vd6r4ppsx57.cloudfront.net/media/brand/logo_CERTP_PNG__MOAFOfq.png             ,TV R
 https://video01.soultv.com.br/tvr/tvr/playlist.m3u8
 #EXTINF:0,ISTV
 https://video08.logicahost.com.br/istvnacional/srt.stream/istvnacional.m3u8
@@ -379,7 +379,7 @@ https://video08.logicahost.com.br/istvnacional/srt.stream/istvnacional.m3u8
 https://stmv1.paineltv.net/wladimyr7277/wladimyr7277/playlist.m3u8
 #EXTINF:0,REDE UTV BRASIL
 https://utvsite.acessaradios.com.br/utvsite/utvsite.stream/playlist.m3u8
-#EXTINF:0,Rakuten familia 
+#EXTINF:0,Rakuten familia
 https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0,Canela Kids
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
