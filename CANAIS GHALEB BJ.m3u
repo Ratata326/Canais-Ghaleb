@@ -25,7 +25,7 @@ https://5cf4a2c2512a2.streamlock.net/8256/8256/playlist.m3u8
 https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
 #EXTINF:0 logo=https://imgur.com/a/VP6wCir.png                group-title="Ghaleb" ,Lucas Tv
 https://stmv6.voxtvhd.com.br/lucastv/lucastv/playlist.m3u8
-#EXTINF:0,5-Minute Crafts Ao Vivo
+#EXTINF:0group-title="Ghaleb",5-Minute Crafts Ao Vivo
 https://amg02051-soulpublishing-amg02051c7-plex-us-306.playouts.now.amagi.tv/playlist/amg02051-amg02051c7-306/playlist.m3u8
 #EXTINF:0group-title="Ghaleb",Channel 1
 https://stmv1.srvif.com/movies1/movies1/playlist.m3u8
@@ -88,9 +88,9 @@ https://amogonetworx-grjngo-2-eu.plex.wurl.tv/playlist.m3u8
 https://stmv6.voxtvhd.com.br/cinebrasil/cinebrasil/playlist.m3u8
 #EXTINF:0group-title="Filmes",Sony Classic
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
-#EXTINF:0,Web Tv Clássicos do Cinema Ao Vivo
+#EXTINF:0group-title="Filmes",Web Tv Clássicos do Cinema Ao Vivo
 https://stmv1.srvif.com/movies1/movies1/playlist.m3u8
-#EXTINF:0,1980 Channel Ao Vivo
+#EXTINF:0group-title="Filmes",1980 Channel Ao Vivo
 https://stmv6.voxtvhd.com.br/channel80s/channel80s/playlist.m3u8
 #EXTINF:0group-title="Filmes",TVI Ficção
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
