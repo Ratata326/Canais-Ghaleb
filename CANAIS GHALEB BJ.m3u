@@ -1,28 +1,16 @@
 =====[ Ghaleb Bjaiji ]=====
-#EXTINF:0 logo=https://imgur.com/SExObkB.png                group-title="Ghaleb",BS-TV Online
+#EXTINF:0 logo=https://imgur.com/SExObkB.png                group-title="Ghaleb" ,BS-TV Online
 https://video05.logicahost.com.br/gbsstudio/gbsstudio/playlist.m3u8
 #EXTINF:0group-title="Ghaleb",Multi Canais
 https://stmv4.voxtvhd.com.br/multicanais/multicanais/playlist.m3u8
-#EXTINF:0group-title="Ghaleb",Web Tv Cine
-https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
-#EXTINF:0group-title="Ghaleb",Loading Web Tv
-https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
-#EXTINF:0group-title="Ghaleb",Otaku Sing
-https://stmv1.srvif.com/otaku/otaku/playlist.m3u8
 #EXTINF:0group-title="Ghaleb",Tv Classicos
 https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
-#EXTINF:0group-title="Ghaleb",AniTv
-https://stream.ichibantv.com:3764/hybrid/play.m3u8
 #EXTINF:0group-title="Ghaleb",Tv Zyn
 https://amg01391-sbtinfast-amg01391c2-runtime-latam-1337.playouts.now.amagi.tv/playlist/amg01391-addigital-tvzyn-runtimelatam/playlist.m3u8
-#EXTINF:0 logo=https://imgur.com/a/CezayJA.png                  group-title="Ghaleb",Caravana Play
-https://stmv2.voxtvhd.com.br/keynni6990/keynni6990/playlist.m3u8
 #EXTINF:0group-title="Ghaleb",GLN Tv
 https://stmv1.paineltv.net/glnfilmes/glnfilmes/chunklist.m3u8
 #EXTINF:0group-title="Ghaleb",Web Tv Progresso
 https://5a0c3936c25c8.streamlock.net/oprogressotvstation/oprogressotvstation/playlist.m3u8
-#EXTINF:0group-title="Ghaleb",Novelas Turcas
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
 #EXTINF:0group-title="Ghaleb",Tv Max Rio
 https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/chunklist_w681654246.m3u8
 #EXTINF:0group-title="Ghaleb",Bons Tempos
@@ -31,28 +19,14 @@ https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
 https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
 #EXTINF:0group-title="Ghaleb",Viva Web Tv
 https://video01.kshost.com.br/cypriano46326/cypriano46326/playlist.m3u8
-#EXTINF:0 logo=https://imgur.com/a/ibRm9XC.png                group-title="Ghaleb",ABC Brasil
+#EXTINF:0 logo=https://imgur.com/a/ibRm9XC.png                group-title="Ghaleb" ,ABC Brasil
 https://5cf4a2c2512a2.streamlock.net/8256/8256/playlist.m3u8
 #EXTINF:0group-title="Ghaleb",Cindie Lite
 https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
-#EXTINF:0 logo=https://imgur.com/a/VP6wCir.png                group-title="Ghaleb",Lucas Tv
+#EXTINF:0 logo=https://imgur.com/a/VP6wCir.png                group-title="Ghaleb" ,Lucas Tv
 https://stmv6.voxtvhd.com.br/lucastv/lucastv/playlist.m3u8
-#EXTINF:0 logo=https://imgur.com/a/UPHb2mh.png                group-title="Ghaleb",PlayTv
-https://isaocorp.cloudecast.com/playtv/mono.m3u8
-#EXTINF:0group-title="Ghaleb",Series Classic
-https://srv6.zcast.com.br/adriano8425/adriano8425/chunklist_w1423268919.m3u8
-#EXTINF:0group-title="Ghaleb",Animes 7
-https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
-#EXTINF:0group-title="Ghaleb",Animes 8
-https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
-#EXTINF:0group-title="Ghaleb",Séries 10
-https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
-#EXTINF:0group-title="Ghaleb",5-Minute Crafts Ao Vivo
+#EXTINF:0,5-Minute Crafts Ao Vivo
 https://amg02051-soulpublishing-amg02051c7-plex-us-306.playouts.now.amagi.tv/playlist/amg02051-amg02051c7-306/playlist.m3u8
-#EXTINF:0group-title="Ghaleb",MasterChef Brasil Ao Vivo
-https://amg00627-amg00627c9-runtime-latam-2613.playouts.now.amagi.tv/playlist/amg00627-banijayfast-masterchefbrazil-runtimelatam/playlist.m3u8
-#EXTINF:0group-title="Ghaleb",Tastemade Brasil Ao Vivo
-https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:0group-title="Ghaleb",Channel 1
 https://stmv1.srvif.com/movies1/movies1/playlist.m3u8
 #EXTINF:0group-title="Ghaleb",CHRISTMAS TV
@@ -63,8 +37,6 @@ https://stmv1.paineldevideo.com.br/claudiorlp/claudiorlp/playlist.m3u8
 https://stmv1.srvif.com/ketv/ketv/playlist.m3u8
 #EXTINF:0group-title="Ghaleb",Web Conexão Tv
 https://video04.logicahost.com.br/webconexao/webconexao/playlist.m3u8
-#EXTINF:0group-title="Ghaleb",Somos Novelas
-https://amg00375-amg00375c10-fuse-us-3222.playouts.now.amagi.tv/playlist/amg00375-fusemediafast-somosnovelas-fuseus/playlist.m3u8
 #EXTINF:0group-title="Ghaleb",Assombrações
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620d1512c7986a0007220213/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 #EXTINF:0group-title="Ghaleb",Pluto TV Comédia
@@ -85,12 +57,6 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6014761dfb91870008ea6
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f36f2346ede750007332d11/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 #EXTINF:0group-title="Ghaleb",AGROBRASIL TV
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/chunklist.m3u8
-#EXTINF:0group-title="Ghaleb",STAR TREK
-https://stmv1.srvif.com/startrek/startrek/playlist.m3u8
-#EXTINF:0group-title="Ghaleb",Sony Canal Novelas
-https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
-#EXTINF:0group-title="Ghaleb",Sony Canal Novelas 2
-https://spt-novelas-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:0group-title="Ghaleb",Sony Canal Comedias
 https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalComedias/playlist.m3u8
 #EXTINF:0group-title="Ghaleb",Sony Canal Comedias 2
@@ -100,19 +66,19 @@ https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:0group-title="Ghaleb",Sony Competição
 https://db71bbef43434d4e9ff9d4a9b8f55bf0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_SonyCanalCompetencias-1/playlist.m3u8
 =====[ Filmes ]=====
-#EXTINF:0 logo=https://imgur.com/a/pG3TG6l.png                group-title="Filmes",Sua Tv
+#EXTINF:0 logo=https://imgur.com/a/pG3TG6l.png                group-title="Filmes" ,Sua Tv
 https://stmv1.paineltv.net/suatvsjc/suatvsjc/playlist.m3u8
-#EXTINF:0 logo=https://i.imgur.com/4c7bwSN.png                    group-title="Filmes",Runtime Ação
+#EXTINF:0 logo=https://i.imgur.com/4c7bwSN.png                    group-title="Filmes" ,Runtime Ação
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
-#EXTINF:0 logo=https://i.imgur.com/4c7bwSN.png                    group-title="Filmes",Runtime
+#EXTINF:0 logo=https://i.imgur.com/4c7bwSN.png                    group-title="Filmes" ,Runtime
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
-#EXTINF:0 logo=https://i.imgur.com/4c7bwSN.png                    group-title="Filmes",Runtime Comédia
+#EXTINF:0 logo=https://i.imgur.com/4c7bwSN.png                    group-title="Filmes" ,Runtime Comédia
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
-#EXTINF:0 logo=https://i.imgur.com/4c7bwSN.png                    group-title="Filmes",Runtime Crime
+#EXTINF:0 logo=https://i.imgur.com/4c7bwSN.png                    group-title="Filmes" ,Runtime Crime
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
-#EXTINF:0 logo=https://i.imgur.com/4c7bwSN.png                    group-title="Filmes",Runtime Família
+#EXTINF:0 logo=https://i.imgur.com/4c7bwSN.png                    group-title="Filmes" ,Runtime Família
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589
-#EXTINF:0 logo=https://i.imgur.com/4c7bwSN.png                    group-title="Filmes",Runtime Romance
+#EXTINF:0 logo=https://i.imgur.com/4c7bwSN.png                    group-title="Filmes" ,Runtime Romance
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
 #EXTINF:0group-title="Filmes",GRJNGO
 https://amogonetworx-grjngo-1-eu.plex.wurl.tv/2000.m3u8
@@ -122,9 +88,9 @@ https://amogonetworx-grjngo-2-eu.plex.wurl.tv/playlist.m3u8
 https://stmv6.voxtvhd.com.br/cinebrasil/cinebrasil/playlist.m3u8
 #EXTINF:0group-title="Filmes",Sony Classic
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
-#EXTINF:0group-title="Filmes",Web Tv Clássicos do Cinema Ao Vivo
+#EXTINF:0,Web Tv Clássicos do Cinema Ao Vivo
 https://stmv1.srvif.com/movies1/movies1/playlist.m3u8
-#EXTINF:0group-title="Filmes",1980 Channel Ao Vivo
+#EXTINF:0,1980 Channel Ao Vivo
 https://stmv6.voxtvhd.com.br/channel80s/channel80s/playlist.m3u8
 #EXTINF:0group-title="Filmes",TVI Ficção
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
@@ -205,17 +171,17 @@ https://tv01.zas.media:1936/centraltvweb/centraltvweb/playlist.m3u8
 #EXTINF:0group-title="Filmes",Filmes Friki
 https://d2jqgm8hyia1n3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8hl8d0bx6aah/index.m3u8
 =====[ Tv aberta ]=====
-#EXTINF:0 logo=https://i.imgur.com/srURmsi.png                    group-title="Aberta",SBT
+#EXTINF:0 logo=https://i.imgur.com/srURmsi.png                    group-title="Aberta" ,SBT
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
-#EXTINF:0 logo=https://i.imgur.com/RDekR7e.png                    group-title="Aberta",Record Tv
+#EXTINF:0 logo=https://i.imgur.com/RDekR7e.png                    group-title="Aberta" ,Record Tv
 http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
 #EXTINF:0group-title="Aberta",Rede NGT
 https://isaocorp.cloudecast.com/ngt/index.m3u8
 #EXTINF:0group-title="Aberta",TV Brasil
 https://tvbrasil-stream.ebc.com.br/index.m3u8
-#EXTINF:0 logo=https://i.imgur.com/b92nQTD.png                    group-title="Aberta",Band
+#EXTINF:0 logo=https://i.imgur.com/b92nQTD.png                    group-title="Aberta" ,Band
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
-#EXTINF:0 logo=https://imgur.com/a/ZlbQuiL.png                group-title="Aberta",Tv Pampa
+#EXTINF:0 logo=https://imgur.com/a/ZlbQuiL.png                group-title="Aberta" ,Tv Pampa
 https://video04.logicahost.com.br/tvpampa/tvpampa/playlist.m3u8
 #EXTINF:0group-title="Aberta",Tv Mon
 https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
@@ -251,11 +217,11 @@ https://5a0c3936c25c8.streamlock.net/8032/8032/playlist.m3u8
 https://srv3.zcast.com.br/saranet/saranet/playlist.m3u8
 #EXTINF:0group-title="Aberta",CNN BRASIL
 http://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
-#EXTINF:0 logo=https://i.imgur.com/srURmsi.png                    group-title="Aberta",SBT (TV Cidade Verde PI)
+#EXTINF:0 logo=https://i.imgur.com/srURmsi.png                    group-title="Aberta" ,SBT (TV Cidade Verde PI)
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
 #EXTINF:0group-title="Aberta",Tv Cei
 https://stmv8.samcast.com.br/liamara1531/liamara1531/playlist.m3u8
-#EXTINF:0 logo=https://pbs.twimg.com/profile_images/927523078690787328/cY2qU7jK_400x400.jpg                    group-title="Aberta",TVE RS
+#EXTINF:0 logo=https://pbs.twimg.com/profile_images/927523078690787328/cY2qU7jK_400x400.jpg                    group-title="Aberta" ,TVE RS
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 #EXTINF:0group-title="Aberta",Canal Gov
 https://canalgov-stream.ebc.com.br/index.m3u8
@@ -283,9 +249,7 @@ https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 #EXTINF:0group-title="Árabe",Future tv
 https://live.kwikmotion.com/futurelive/ftv.smil/playlist.m3u8
 =====[ Desenhos ]=====
-#EXTINF:0group-title="Desenhos",Anime Tv
-https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
-#EXTINF:0 logo=https://imgur.com/a/QIqy7rP.png                group-title="Desenhos",Clouding Tv
+#EXTINF:0 logo=https://imgur.com/a/QIqy7rP.png                group-title="Desenhos" ,Clouding Tv
 https://stmv1.paineltv.net/redeclonetv/redeclonetv/playlist.m3u8
 #EXTINF:0group-title="Desenhos",Retro Cartoon
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
@@ -297,8 +261,6 @@ https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
 https://video03.logicahost.com.br/novafamilia01/novafamilia01/playlist.m3u8
 #EXTINF:0group-title="Desenhos",Toon goggles Português
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=274
-#EXTINF:0group-title="Desenhos",Animax
-https://stream.ichibantv.com:3547/stream/play.m3u8
 #EXTINF:0group-title="Desenhos",Wording Televisão
 https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8
 #EXTINF:0group-title="Desenhos",Teleweb
@@ -309,8 +271,6 @@ https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 https://srv3.zcast.com.br/kanucatv/kanucatv/playlist.m3u8
 #EXTINF:0group-title="Desenhos",Tv 100
 https://alanza.iptv2022.com/TV_100/tracks-v1a1/mono.m3u8
-#EXTINF:0group-title="Desenhos",AWTV
-https://acesso.ecast.site:3070/live/awtvlive.m3u8
 #EXTINF:0group-title="Desenhos",TV WEB SÃO LUIS CANOAS RS
 https://stmv1.samcast.com.br/enei9364/enei9364/playlist.m3u8
 #EXTINF:0group-title="Desenhos",Campos Web Tv
@@ -327,7 +287,7 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/633dc392e0282400071b0
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62545c0b002f4b0007688b61livestitch/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=&profilesFromStream=true
 #EXTINF:0group-title="Desenhos",Nickelodeon iCarly
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620ff46e0a576e0007dc2f89/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
-#EXTINF:0group-title="Desenhos",Naruto
+#EXTINF:0group-title="Animes",Naruto
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 #EXTINF:0group-title="Desenhos",Nick Clássico
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12151794c1800007a8ae63/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
@@ -337,13 +297,13 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f121460b73ac6000719f
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f5fabf0721880007cd50e3/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 #EXTINF:0group-title="Desenhos",O Reino Infantil
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5c216df68f920007888315/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
-#EXTINF:0group-title="Desenhos",One Piece
+#EXTINF:0group-title="Animes",One Piece
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/624b1c8d4321e200073ee421/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 #EXTINF:0group-title="Desenhos",Os Padrinhos Mágicos
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63221e41af69b500076f84e7/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
-#EXTINF:0group-title="Desenhos",Pluto TV Anime
+#EXTINF:0group-title="Animes",Pluto TV Anime
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
-#EXTINF:0group-title="Desenhos",Pluto TV Anime Ação
+#EXTINF:0group-title="Animes",Pluto TV Anime Ação
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b79c558393100078faeef/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 #EXTINF:0group-title="Desenhos",Pluto TV Junior
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12141b146d760007934ea7/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
@@ -351,7 +311,7 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12141b146d760007934
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 #EXTINF:0group-title="Desenhos",Rugrats
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61f2c6969fcc3800076ef8af/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
-#EXTINF:0group-title="Desenhos",Tokusato
+#EXTINF:0group-title="Animes",Tokusato
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff609de50ab210008025c1b/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 #EXTINF:0group-title="Desenhos",Turma da Mônica
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a6941elivestitch/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=&profilesFromStream=true
@@ -359,7 +319,7 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a69
 https://cdn.jmvstream.com/w/AVJ-15086/playlist/playlist.m3u8
 #EXTINF:0group-title="Desenhos",BSTV
 https://br5093.streamingdevideo.com.br/bstv/bstv/playlist.m3u8
-#EXTINF:0 logo=https://d14vd6r4ppsx57.cloudfront.net/media/brand/logo_CERTP_PNG__MOAFOfq.png                    group-title="Desenhos",TV R
+#EXTINF:0 logo=https://d14vd6r4ppsx57.cloudfront.net/media/brand/logo_CERTP_PNG__MOAFOfq.png                    group-title="Desenhos" ,TV R
 https://video01.soultv.com.br/tvr/tvr/playlist.m3u8
 #EXTINF:0group-title="Desenhos",ISTV
 https://video08.logicahost.com.br/istvnacional/srt.stream/istvnacional.m3u8
@@ -371,6 +331,8 @@ https://utvsite.acessaradios.com.br/utvsite/utvsite.stream/playlist.m3u8
 https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0group-title="Desenhos",Canela Kids
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
+#EXTINF:0group-title="Desenhos",Loading Web Tv
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 =====[ Esportes ]=====
 #EXTINF:0group-title="Esportes",Dubai Racing
 https://dmithrvllta.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
@@ -384,3 +346,45 @@ https://stmv2.paineldevideo.com.br/autotv/autotv/playlist.m3u8
 https://a.cdni.live/radioesporte/radioesporte/playlist.m3u8
 #EXTINF:0group-title="Esportes",Combate Global Tv
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
+=====[ Animes ]=====
+#EXTINF:0group-title="Animes",Otaku Sing
+https://stmv1.srvif.com/otaku/otaku/playlist.m3u8
+#EXTINF:0group-title="Animes",AniTv
+https://stream.ichibantv.com:3764/hybrid/play.m3u8
+#EXTINF:0 logo=https://imgur.com/a/UPHb2mh.png                group-title="Animes" ,PlayTv
+https://isaocorp.cloudecast.com/playtv/mono.m3u8
+#EXTINF:0group-title="Animes",Animes 7
+https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
+#EXTINF:0group-title="Animes",Animes 8
+https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
+#EXTINF:0group-title="Novelas",Anime Tv
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+#EXTINF:0group-title="Animes",Animax
+https://stream.ichibantv.com:3547/stream/play.m3u8
+=====[ Novelas ]=====
+#EXTINF:0group-title="Novelas",Novelas Turcas
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
+#EXTINF:0group-title="Novelas",Somos Novelas
+https://amg00375-amg00375c10-fuse-us-3222.playouts.now.amagi.tv/playlist/amg00375-fusemediafast-somosnovelas-fuseus/playlist.m3u8
+#EXTINF:0group-title="Novelas",Sony Canal Novelas
+https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
+#EXTINF:0group-title="Novelas",Sony Canal Novelas 2
+https://spt-novelas-1-us.lg.wurl.tv/playlist.m3u8
+=====[ Séries ]=====
+#EXTINF:0 logo=https://imgur.com/a/CezayJA.png                  group-title="Séries" ,Caravana Play
+https://stmv2.voxtvhd.com.br/keynni6990/keynni6990/playlist.m3u8
+#EXTINF:0group-title="Séries",Series Classic
+https://srv6.zcast.com.br/adriano8425/adriano8425/chunklist_w1423268919.m3u8
+#EXTINF:0group-title="Séries",Séries 10
+https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
+#EXTINF:0group-title="Séries",STAR TREK
+https://stmv1.srvif.com/startrek/startrek/playlist.m3u8
+#EXTINF:0group-title="Séries",Web Tv Cine
+https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+#EXTINF:0group-title="Séries",AWTV
+https://acesso.ecast.site:3070/live/awtvlive.m3u8
+=====[ Comida ]=====
+#EXTINF:0group-title="Comida",MasterChef Brasil Ao Vivo
+https://amg00627-amg00627c9-runtime-latam-2613.playouts.now.amagi.tv/playlist/amg00627-banijayfast-masterchefbrazil-runtimelatam/playlist.m3u8
+#EXTINF:0group-title="Comida",Tastemade Brasil Ao Vivo
+https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
