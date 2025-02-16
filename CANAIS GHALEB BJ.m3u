@@ -1,5 +1,5 @@
 =====[ Ghaleb Bjaiji ]=====
-#EXTINF:0 logo=https://imgur.com/SExObkB.png                group-title="Ghaleb" ,BS-TV Online
+#EXTINF:0 tvg-logo="https://imgur.com/SExObkB.png"                group-title="Ghaleb" ,BS-TV Online
 https://video05.logicahost.com.br/gbsstudio/gbsstudio/playlist.m3u8
 #EXTINF:0group-title="Ghaleb",Multi Canais
 https://stmv4.voxtvhd.com.br/multicanais/multicanais/playlist.m3u8
@@ -19,11 +19,11 @@ https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
 https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
 #EXTINF:0group-title="Ghaleb",Viva Web Tv
 https://video01.kshost.com.br/cypriano46326/cypriano46326/playlist.m3u8
-#EXTINF:0 logo=https://imgur.com/a/ibRm9XC.png                group-title="Ghaleb" ,ABC Brasil
+#EXTINF:0 tvg-logo="https://imgur.com/a/ibRm9XC.png"                group-title="Ghaleb" ,ABC Brasil
 https://5cf4a2c2512a2.streamlock.net/8256/8256/playlist.m3u8
 #EXTINF:0group-title="Ghaleb",Cindie Lite
 https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
-#EXTINF:0 logo=https://imgur.com/a/VP6wCir.png                group-title="Ghaleb" ,Lucas Tv
+#EXTINF:0 tvg-logo="https://imgur.com/a/VP6wCir.png"                group-title="Ghaleb" ,Lucas Tv
 https://stmv6.voxtvhd.com.br/lucastv/lucastv/playlist.m3u8
 #EXTINF:0group-title="Ghaleb",5-Minute Crafts Ao Vivo
 https://amg02051-soulpublishing-amg02051c7-plex-us-306.playouts.now.amagi.tv/playlist/amg02051-amg02051c7-306/playlist.m3u8
@@ -66,7 +66,7 @@ https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:0group-title="Ghaleb",Sony Competição
 https://db71bbef43434d4e9ff9d4a9b8f55bf0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_SonyCanalCompetencias-1/playlist.m3u8
 =====[ Filmes ]=====
-#EXTINF:0 logo=https://imgur.com/a/pG3TG6l.png                group-title="Filmes" ,Sua Tv
+#EXTINF:0 tvg-logo="https://imgur.com/a/pG3TG6l.png"                group-title="Filmes" ,Sua Tv
 https://stmv1.paineltv.net/suatvsjc/suatvsjc/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/4c7bwSN.png"                    group-title="Filmes" ,Runtime Ação
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
