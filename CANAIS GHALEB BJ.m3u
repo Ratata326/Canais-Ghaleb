@@ -68,17 +68,17 @@ https://db71bbef43434d4e9ff9d4a9b8f55bf0.mediatailor.us-east-1.amazonaws.com/v1/
 =====[ Filmes ]=====
 #EXTINF:0 logo=https://imgur.com/a/pG3TG6l.png                group-title="Filmes" ,Sua Tv
 https://stmv1.paineltv.net/suatvsjc/suatvsjc/playlist.m3u8
-#EXTINF:0 logo=https://i.imgur.com/4c7bwSN.png                    group-title="Filmes" ,Runtime Ação
+#EXTINF:0 tvg-logo="https://i.imgur.com/4c7bwSN.png"                    group-title="Filmes" ,Runtime Ação
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
-#EXTINF:0 logo=https://i.imgur.com/4c7bwSN.png                    group-title="Filmes" ,Runtime
+#EXTINF:0 tvg-logo="https://i.imgur.com/4c7bwSN.png"                   group-title="Filmes" ,Runtime
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
-#EXTINF:0 logo=https://i.imgur.com/4c7bwSN.png                    group-title="Filmes" ,Runtime Comédia
+#EXTINF:0 tvg-logo="https://i.imgur.com/4c7bwSN.png"                   group-title="Filmes" ,Runtime Comédia
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
-#EXTINF:0 logo=https://i.imgur.com/4c7bwSN.png                    group-title="Filmes" ,Runtime Crime
+#EXTINF:0 tvg-logo="https://i.imgur.com/4c7bwSN.png"                   group-title="Filmes" ,Runtime Crime
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
-#EXTINF:0 logo=https://i.imgur.com/4c7bwSN.png                    group-title="Filmes" ,Runtime Família
+#EXTINF:0 tvg-logo="https://i.imgur.com/4c7bwSN.png"                    group-title="Filmes" ,Runtime Família
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589
-#EXTINF:0 logo=https://i.imgur.com/4c7bwSN.png                    group-title="Filmes" ,Runtime Romance
+#EXTINF:0 tvg-logo="https://i.imgur.com/4c7bwSN.png"                    group-title="Filmes" ,Runtime Romance
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
 #EXTINF:0group-title="Filmes",GRJNGO
 https://amogonetworx-grjngo-1-eu.plex.wurl.tv/2000.m3u8
@@ -171,17 +171,17 @@ https://tv01.zas.media:1936/centraltvweb/centraltvweb/playlist.m3u8
 #EXTINF:0group-title="Filmes",Filmes Friki
 https://d2jqgm8hyia1n3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8hl8d0bx6aah/index.m3u8
 =====[ Tv aberta ]=====
-#EXTINF:0 logo=https://i.imgur.com/srURmsi.png                    group-title="Aberta" ,SBT
+#EXTINF:0 tvg-logo="https://i.imgur.com/srURmsi.png"                   group-title="Aberta" ,SBT
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
-#EXTINF:0 logo=https://i.imgur.com/RDekR7e.png                    group-title="Aberta" ,Record Tv
+#EXTINF:0 tvg-logo="https://i.imgur.com/RDekR7e.png"                    group-title="Aberta" ,Record Tv
 http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
 #EXTINF:0group-title="Aberta",Rede NGT
 https://isaocorp.cloudecast.com/ngt/index.m3u8
 #EXTINF:0group-title="Aberta",TV Brasil
 https://tvbrasil-stream.ebc.com.br/index.m3u8
-#EXTINF:0 logo=https://i.imgur.com/b92nQTD.png                    group-title="Aberta" ,Band
+#EXTINF:0 tvg-logo="https://i.imgur.com/b92nQTD.png"                    group-title="Aberta" ,Band
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
-#EXTINF:0 logo=https://imgur.com/a/ZlbQuiL.png                group-title="Aberta" ,Tv Pampa
+#EXTINF:0 tvg-logo="https://imgur.com/a/ZlbQuiL.png"                group-title="Aberta" ,Tv Pampa
 https://video04.logicahost.com.br/tvpampa/tvpampa/playlist.m3u8
 #EXTINF:0group-title="Aberta",Tv Mon
 https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
@@ -217,11 +217,11 @@ https://5a0c3936c25c8.streamlock.net/8032/8032/playlist.m3u8
 https://srv3.zcast.com.br/saranet/saranet/playlist.m3u8
 #EXTINF:0group-title="Aberta",CNN BRASIL
 http://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
-#EXTINF:0 logo=https://i.imgur.com/srURmsi.png                    group-title="Aberta" ,SBT (TV Cidade Verde PI)
+#EXTINF:0 tvg-logo="https://i.imgur.com/srURmsi.png"                    group-title="Aberta" ,SBT (TV Cidade Verde PI)
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
 #EXTINF:0group-title="Aberta",Tv Cei
 https://stmv8.samcast.com.br/liamara1531/liamara1531/playlist.m3u8
-#EXTINF:0 logo=https://pbs.twimg.com/profile_images/927523078690787328/cY2qU7jK_400x400.jpg                    group-title="Aberta" ,TVE RS
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/927523078690787328/cY2qU7jK_400x400.jpg"                    group-title="Aberta" ,TVE RS
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 #EXTINF:0group-title="Aberta",Canal Gov
 https://canalgov-stream.ebc.com.br/index.m3u8
