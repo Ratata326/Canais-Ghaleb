@@ -41,7 +41,7 @@ https://stmv1.srvif.com/ketv/ketv/playlist.m3u8
 https://video04.logicahost.com.br/webconexao/webconexao/playlist.m3u8
 #EXTINF:0tvg-logo="https://i.imgur.com/ZVO8GVI.png" group-title="Ghaleb",Assombrações
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620d1512c7986a0007220213/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
-None#EXTINF:0tvg-logo="https://i.imgur.com/PyCpEI8.png" group-title="Ghaleb",AGROBRASIL TV
+#EXTINF:0tvg-logo="https://i.imgur.com/PyCpEI8.png" group-title="Ghaleb",AGROBRASIL TV
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/chunklist.m3u8
 #EXTINF:0tvg-logo="https://i.imgur.com/3RoahDU.png" group-title="Ghaleb",Sony Canal Comedias
 https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalComedias/playlist.m3u8
@@ -49,10 +49,10 @@ https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/
 https://d05f9c4e535042b78e6de94ef5548e4a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_SonyCanalComedias-2/playlist.m3u8
 #EXTINF:0tvg-logo="https://i.imgur.com/3RoahDU.png" group-title="Ghaleb",Sony Competição
 https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalCompetencias/playlist.m3u8
-#EXTINF:0tvg-logo="https://i.imgur.com/3RoahDU.png" group-title="Ghaleb",Sony Competição
+#EXTINF:0tvg-logo="https://i.imgur.com/3RoahDU.png" group-title="Ghaleb",Sony Competição 2
 https://db71bbef43434d4e9ff9d4a9b8f55bf0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_SonyCanalCompetencias-1/playlist.m3u8
 =====[ Filmes ]=====
-None#EXTINF:0 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Filmes" ,Runtime Ação
+#EXTINF:0 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Filmes" ,Runtime Ação
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
 #EXTINF:0 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Filmes" ,Tempo de execução
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
@@ -214,6 +214,44 @@ https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8
 https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 #EXTINF:0tvg-logo="https://i.imgur.com/fN7nGxf.png" group-title="Árabe",Futuro tv
 https://live.kwikmotion.com/futurelive/ftv.smil/playlist.m3u8
+=====[ Rádios Árabes ]=====
+#EXTINF:0 tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="Rádios Árabes",Al Jazeera Radio
+https://live-hls-web-aja.getaj.net/AJA/04.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/N4AyK2U.png" group-title="Rádios Árabes",Saudi Radio
+https://live.kwikmotion.com/sbrksaudiradiolive/srpksaudiradio/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/8PH1Lak.png" group-title="Rádios Árabes",Radio Al Riyadh
+https://live.kwikmotion.com/sbrksariyadhradiolive/srpksariyadhradio/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/N4AyK2U.png" group-title="Rádios Árabes",Radio Alkhuzama
+https://live.kwikmotion.com/sbrksakhuzamaradiolive/srpkhuzama/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/RklLLkY.png" group-title="Rádios Árabes",DW Árabe Radio
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/tiQp2sR.png" group-title="Rádios Árabes",Sky News Arabia Radio
+https://stream.skynewsarabia.com/hls/sna.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/WcRlHQm.png" group-title="Rádios Árabes",Al Ekhbariya Radio
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/De4SEWE.png" group-title="Rádios Árabes",Al Hadath Radio
+https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/NXFkYFj.png" group-title="Rádios Árabes",Al Arabiya Radio
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+=====[ Rádios Música Árabe ]=====
+#EXTINF:0 tvg-logo="https://i.imgur.com/nhREk0o.png" group-title="Rádios Música Árabe",Rotana Clip
+https://rotana.hibridcdn.net/rotananet/clip_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/2zFQbQi.png" group-title="Rádios Música Árabe",Rotana Music
+https://rotana.hibridcdn.net/rotananet/music_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/6HMluzv.png" group-title="Rádios Música Árabe",Rotana Khalijia
+https://rotana.hibridcdn.net/rotananet/khaleejiya_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/IlT8U6S.png" group-title="Rádios Música Árabe",Rotana Comedy
+https://rotana.hibridcdn.net/rotananet/comedy_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/o6HSfNg.png" group-title="Rádios Música Árabe",Aghani Aghani
+https://streaming-a-1035.cdn.nextologies.com/6zj8y5nemi8a32vyjjbkv0oqx/77pcakd8reik3g8qdqnexlkmq/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/N4AyK2U.png" group-title="Rádios Música Árabe",Abdulmajeed Abdullah
+https://d2hng5r56zpsbw.cloudfront.net/out/v1/9c4c990f44bb4767bb46271f326dd574/index.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/NjgOBts.png" group-title="Rádios Música Árabe",Rotana Tarab Jordan
+http://45.63.116.205/hls3/stream1.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/xGDjlp5.png" group-title="Rádios Música Árabe",Rotana Radio Jordan Studio
+http://45.63.116.205/hls/stream1.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/TTAGFHG.png" group-title="Rádios Música Árabe",MBC Bollywood
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
 =====[ Desenhos ]=====
 #EXTINF:0 tvg-logo="https://i.imgur.com/wIAZh19.jpg" group-title="Desenhos" ,Tv nublada
 https://stmv1.paineltv.net/redeclonetv/redeclonetv/playlist.m3u8
@@ -245,7 +283,7 @@ https://tv.rbstream.com.br/joseroberto9307/joseroberto9307/chunklist.m3u8
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4fb4cf605ddf000748e16f/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 #EXTINF:0tvg-logo="https://i.imgur.com/0OYQYvR.png" group-title="Desenhos",Beyblade
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/633dc392e0282400071b0d39/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
-NoneNoneNone#EXTINF:0tvg-logo="https://i.imgur.com/DXwyj7S.png" group-title="Desenhos",Rede Web Tv
+#EXTINF:0tvg-logo="https://i.imgur.com/DXwyj7S.png" group-title="Desenhos",Rede Web Tv
 https://cdn.jmvstream.com/w/AVJ-15086/playlist/playlist.m3u8
 #EXTINF:0tvg-logo="https://i.imgur.com/ZWFxlU1.png" group-title="Desenhos",BSTV
 https://br5093.streamingdevideo.com.br/bstv/bstv/playlist.m3u8
@@ -287,7 +325,7 @@ https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
 https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
 #EXTINF:0tvg-logo="https://i.imgur.com/0OYQYvR.png" group-title="Animes",Anime TV
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
-None=====[ Novelas ]=====
+=====[ Novelas ]=====
 #EXTINF:0tvg-logo="https://i.imgur.com/ygsTvlv.png" group-title="Novelas",Novelas Turcas
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
 #EXTINF:0tvg-logo="https://i.imgur.com/ygsTvlv.png" group-title="Novelas",Somos Novelas
@@ -314,44 +352,6 @@ https://acesso.ecast.site:3070/live/awtvlive.m3u8
 https://amg00627-amg00627c9-runtime-latam-2613.playouts.now.amagi.tv/playlist/amg00627-banijayfast-masterchefbrazil-runtimelatam/playlist.m3u8
 #EXTINF:0tvg-logo="https://i.imgur.com/r9yHSge.png" group-title="Comida",Tastemade Brasil Ao Vivo
 https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
-=====[ Rádios Árabes ]=====
-#EXTINF:0 tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="Rádios Árabes",Al Jazeera Radio
-https://live-hls-web-aja.getaj.net/AJA/04.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/N4AyK2U.png" group-title="Rádios Árabes",Saudi Radio
-https://live.kwikmotion.com/sbrksaudiradiolive/srpksaudiradio/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/8PH1Lak.png" group-title="Rádios Árabes",Radio Al Riyadh
-https://live.kwikmotion.com/sbrksariyadhradiolive/srpksariyadhradio/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/N4AyK2U.png" group-title="Rádios Árabes",Radio Alkhuzama
-https://live.kwikmotion.com/sbrksakhuzamaradiolive/srpkhuzama/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/RklLLkY.png" group-title="Rádios Árabes",DW Árabe
-https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/tiQp2sR.png" group-title="Rádios Árabes",Sky News Arabia Radio
-https://stream.skynewsarabia.com/hls/sna.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/WcRlHQm.png" group-title="Rádios Árabes",Al Ekhbariya Radio
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/De4SEWE.png" group-title="Rádios Árabes",Al Hadath Radio
-https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/NXFkYFj.png" group-title="Rádios Árabes",Al Arabiya Radio
-https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
-=====[ Rádios Música Árabe ]=====
-#EXTINF:0 tvg-logo="https://i.imgur.com/nhREk0o.png" group-title="Rádios Música Árabe",Rotana Clip
-https://rotana.hibridcdn.net/rotananet/clip_net-7Y83PP5adWixDF93/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/2zFQbQi.png" group-title="Rádios Música Árabe",Rotana Music
-https://rotana.hibridcdn.net/rotananet/music_net-7Y83PP5adWixDF93/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/6HMluzv.png" group-title="Rádios Música Árabe",Rotana Khalijia
-https://rotana.hibridcdn.net/rotananet/khaleejiya_net-7Y83PP5adWixDF93/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/IlT8U6S.png" group-title="Rádios Música Árabe",Rotana Comedy
-https://rotana.hibridcdn.net/rotananet/comedy_net-7Y83PP5adWixDF93/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/o6HSfNg.png" group-title="Rádios Música Árabe",Aghani Aghani
-https://streaming-a-1035.cdn.nextologies.com/6zj8y5nemi8a32vyjjbkv0oqx/77pcakd8reik3g8qdqnexlkmq/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/N4AyK2U.png" group-title="Rádios Música Árabe",Abdulmajeed Abdullah
-https://d2hng5r56zpsbw.cloudfront.net/out/v1/9c4c990f44bb4767bb46271f326dd574/index.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/NjgOBts.png" group-title="Rádios Música Árabe",Rotana Tarab Jordan
-http://45.63.116.205/hls3/stream1.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/xGDjlp5.png" group-title="Rádios Música Árabe",Rotana Radio Jordan Studio
-http://45.63.116.205/hls/stream1.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/TTAGFHG.png" group-title="Rádios Música Árabe",MBC Bollywood
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
 #EXTINF:-1 tvg-id="Alarabiya.ae@SD" tvg-logo="https://i.imgur.com/NXFkYFj.png" group-title="💎 ÁRABE PREMIUM",Al Arabiya (1080p)
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlHadath.sa@SD" tvg-logo="https://i.imgur.com/De4SEWE.png" group-title="💎 ÁRABE PREMIUM",Al Arabiya Al Hadath (1080p) [Não disponível 24 horas por dia, 7 dias por semana]
